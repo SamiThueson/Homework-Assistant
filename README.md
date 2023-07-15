@@ -1,6 +1,6 @@
 # Homework Assistant
 
-The purpose of this project is to provide an option to students to plan out their homework in a more productive and purposeful way. It currently is not in production, but can be forked and used locally.
+The purpose of this project is to provide an option to students to plan out their homework in a more productive and purposeful way. It currently is not in production, but can be cloned and used locally.
 
 ## Recommended IDE Setup
 
@@ -11,6 +11,10 @@ The purpose of this project is to provide an option to students to plan out thei
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
+
+```sh
+clone https://github.com/SamiThueson/Homework-Assistant.git
+```
 
 ```sh
 pnpm install
